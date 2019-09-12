@@ -7,7 +7,7 @@
 * /exams [/calendar [/past] ]
 * /printouts
 * /feedback
-* /trays
+* /trays (?viewall)
 * /news
 * /profiles [/students, /teachers, /personnel, /rooms]
 * /forms
