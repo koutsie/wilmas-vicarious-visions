@@ -14,7 +14,7 @@
 
 Well, i have a fainted memory of StarSoft 
 
-![rip site](https://i.imgur.com/RatvZaf.png) 
+<kbd><img src="https://i.imgur.com/RatvZaf.png" /></kbd>
 
 
 offering API's for Wilma but after Visma bought StarSoft, it seems that those API docs have disappeared from public eyes.
