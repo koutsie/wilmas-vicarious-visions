@@ -1,4 +1,19 @@
-# Why?
+## Lets inspect Wilma.
+
+#### Stuff to look at:
+
+
+[Requests](request_ex.md)
+
+
+[Urls](urls.md)
+
+
+--------
+
+
+### Why?
+
 Well, i have a fainted memory of StarSoft ![rip site](https://i.imgur.com/RatvZaf.png) 
 
 
