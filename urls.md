@@ -1,5 +1,6 @@
 ## List of known wilma urls:
 * /login (?sessionexpired)
+* /forgotpasswd
 * /schedule {export/students/**tudentid**/Wilma.ics?token=**???**&p=**??**&f=**??**&tstamp=**????**}
 * /messages [/archive, /outbox, /drafts, /appointments]
 * /attendance
