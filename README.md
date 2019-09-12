@@ -12,7 +12,9 @@
 
 ### Why?
 
-Well, i have a fainted memory of StarSoft ![rip site](https://i.imgur.com/RatvZaf.png) 
+Well, i have a fainted memory of StarSoft 
+
+![rip site](https://i.imgur.com/RatvZaf.png) 
 
 
 offering API's for Wilma but after Visma bought StarSoft, it seems that those API docs have disappeared from public eyes.
