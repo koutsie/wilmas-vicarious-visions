@@ -3,8 +3,8 @@
 * /schedule
 * /messages [/archive, /outbox, /drafts, /appointments]
 * /attendance
-* /choices
-* /exams [/calendar]
+* /choices (?view=gradebook, ?view=choices, ?view=choices)
+* /exams [/calendar [/past] ]
 * /printouts
 * /feedback
 * /trays
