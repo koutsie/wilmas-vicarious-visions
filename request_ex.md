@@ -1,4 +1,4 @@
-# Heres a request example:
+# Communicating with wilma:
 
 ```
 GET /index_json?langid=3 HTTP/1.1
@@ -38,6 +38,8 @@ Content-Length: 79
 
 ### Data within that login may vary:
 
+#### Unsuccessfull:
+
 ```
 {"LoginResult":"Failed","SessionID":"*this seems to be the same 12 char wilmaloginID*","ApiVersion":9,"Workers":[]}POST /login HTTP/1.1
 user-agent: Wilma/2.0.android
@@ -48,8 +50,6 @@ Content-Length: 143
 Host: wilmaurl.example.fi
 Cookie: Wilma2LangID=3; Wilma2LoginID=*your 12 character wilmaloginID*
 ```
-
-
 
 #### Succesfull:
 
