@@ -9,9 +9,9 @@ Host: wilmaurl.example.fi
 ```
 
 
-We'll use the `Wilma/2.0.android` to appear as the wilma app.
+##### We'll use the `Wilma/2.0.android` to appear as the wilma app.
 
-The response looks something like this:
+### The response looks something like this:
 
 ```
 HTTP/1.1 200 OK
@@ -34,4 +34,17 @@ X-Content-Type-Options: nosniff
 Set-Cookie: Wilma2LangID=3; Path=/; HttpOnly; Secure
 Set-Cookie: Wilma2LoginID=*your 12 character wilmaloginID*; Path=/; HttpOnly; Secure
 Content-Length: 79
+```
+
+### Data within that login may vary:
+
+```
+{"LoginResult":"Failed","SessionID":"*this seems to be the same 12 char wilmaloginID*","ApiVersion":9,"Workers":[]}POST /login HTTP/1.1
+user-agent: Wilma/2.0.android
+Connection: keep-alive
+Keep-Alive: 60
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 143
+Host: wilmaurl.example.fi
+Cookie: Wilma2LangID=3; Wilma2LoginID=*your 12 character wilmaloginID*
 ```
