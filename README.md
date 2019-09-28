@@ -30,4 +30,4 @@ I asked Visma about this and yeahhhhhhhh:
 so i guess its time to make some tools and other shit......
 
 #### Whats wilma tho?
-[Wilma (ohjelmisto)](https://fi.wikipedia.org/wiki/Wilma_(ohjelmisto)])
+[Wilma (ohjelmisto)](https://fi.wikipedia.org/wiki/Wilma_(ohjelmisto))
